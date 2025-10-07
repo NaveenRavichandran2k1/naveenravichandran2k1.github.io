@@ -4649,6 +4649,9 @@ input[type="button"].btn--primary:focus {
  * responsive:
  * footer
  * ------------------------------------------------------------------- */
+ .ss-copyright {
+    white-space: nowrap;
+}
 @media screen and (max-width: 1200px) {
     .s-footer {
         padding-bottom: var(--vspace-2_5);
